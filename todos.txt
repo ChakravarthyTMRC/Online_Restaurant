@@ -1,0 +1,33 @@
+1. Change pictures
+	1.1 American
+		1.jpg
+		13.jpg
+	1.2 Salads
+		2.jpg
+		8.jpg
+	1.3 Sandwiches
+		11.jpg
+		12.jpg
+		15.jpg
+		19.jpg
+		3.jpg
+		4.jpg
+		5.jpg
+		7.jpg
+	1.4 Mediterranean
+		10.jpg
+		20.jpg
+		21.jpg
+		6.jpg
+		9.jpg
+	1.5 Vegetarian
+		14.jpg
+		16.jpg
+		17.jpg
+		22.jpg
+		24.jpg
+		25.jpg
+		27.jpg
+2. Add customers
+3. Change text to restaurnat related
+4. Create ppt with naive bayers concept
